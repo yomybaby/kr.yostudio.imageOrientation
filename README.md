@@ -7,7 +7,7 @@ This attribute is useful when using Ti.Media.openPhotoGallery and Ti.Media.showc
 e.media.imageOrientation // 0,1,2,3 
 ```
 
-imageOrientation value | describe
+imageOrientation value | description
 ----------------------- | --------
 0 | landscape left
 1 | landscape right
